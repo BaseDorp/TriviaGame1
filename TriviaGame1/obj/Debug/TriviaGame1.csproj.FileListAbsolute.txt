@@ -1,0 +1,7 @@
+D:\C#Projects\Console\OOP\TriviaGame1\TriviaGame1\bin\Debug\TriviaGame1.exe.config
+D:\C#Projects\Console\OOP\TriviaGame1\TriviaGame1\bin\Debug\TriviaGame1.exe
+D:\C#Projects\Console\OOP\TriviaGame1\TriviaGame1\bin\Debug\TriviaGame1.pdb
+D:\C#Projects\Console\OOP\TriviaGame1\TriviaGame1\obj\Debug\TriviaGame1.csprojAssemblyReference.cache
+D:\C#Projects\Console\OOP\TriviaGame1\TriviaGame1\obj\Debug\TriviaGame1.csproj.CoreCompileInputs.cache
+D:\C#Projects\Console\OOP\TriviaGame1\TriviaGame1\obj\Debug\TriviaGame1.exe
+D:\C#Projects\Console\OOP\TriviaGame1\TriviaGame1\obj\Debug\TriviaGame1.pdb
